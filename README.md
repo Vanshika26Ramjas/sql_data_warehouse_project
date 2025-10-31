@@ -45,7 +45,6 @@ Develop a modern data warehouse using a SQL Server to consolidate a sales data ,
 - **Scope**        : Focus on the latest datasets onl; Historization of the data is not really required
 - **Documentation**: Provide a clean documents where all the data models details is to be provided to business stakeholder                        and analytics teams
 
-  ...
 
   ### 📊BI: Analytics & Reporting (Data Analytics)
 
@@ -58,14 +57,15 @@ Develop a modern data warehouse using a SQL Server to consolidate a sales data ,
 
 These insights empowers stakeholders with the key business matrics, enabling the startergic decision-making.
 
-...
-###🏛️ Data Architecture
+ 
+# 🏛️ Data Architecture
 The Data Architecture for this project follows the Medallion Architecture **Bronze**, **Silver** and **Gold** layer
 ![Architecture model drawio](https://github.com/user-attachments/assets/14d4cae4-188f-4fed-bed7-11ae535283c8)
 
-**Bronze Layer**:- It stores the raw data as-is from the system. Data is ingested from the CSV files ito the SQL Server Database.
-**Silver Layer**:- This Layer inclued the data cleasing, standardization, and normalization processes to prepare data for analysis.
-**Gold Layer**:- House business-ready data modelled into a star schema required for reporting and analysis.
+ 1. **Bronze Layer**:- It stores the raw data as-is from the system. Data is ingested from the CSV files ito the SQL Server Database.
+ 2.  **Silver Layer**:- This Layer inclued the data cleasing, standardization, and normalization processes to prepare data for analysis.
+ 3.  **Gold Layer**:- House business-ready data modelled into a star schema required for reporting and analysis.
+
 
 ##🔶 **Liscence**
 
