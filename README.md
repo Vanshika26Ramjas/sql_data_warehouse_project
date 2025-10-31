@@ -28,6 +28,7 @@ This project demonstrates a compressive data warehousing and analystics solution
 - [Git Repository](https://github.com/)
 - [Draw.io](https://app.diagrams.net/)
 - [Notion](https://www.notion.so/)
+  
 ...
   
 # 🚀 Project Requirements
@@ -60,6 +61,11 @@ These insights empowers stakeholders with the key business matrics, enabling the
 ...
 ###🏛️ Data Architecture
 The Data Architecture for this project follows the Medallion Architecture **Bronze**, **Silver** and **Gold** layer
+![Architecture model drawio](https://github.com/user-attachments/assets/14d4cae4-188f-4fed-bed7-11ae535283c8)
+
+1.**Bronze Layer**:- It stores the raw data as-is from the system. Data is ingested from the CSV files ito the SQL Server Database.
+2.**Silver Layer**:- This Layer inclued the data cleasing, standardization, and normalization processes to prepare data for analysis.
+3.**Gold Layer**:- House business-ready data modelled into a star schema required for reporting and analysis.
 
 ##🔶 **Liscence**
 
@@ -69,4 +75,8 @@ This project is liscenced under the [MIT Liscence](LICENCE). You all are free to
 
 Hi there! I'm **Vanshika** ,currently in my 3rd year pursuing B.Sc. Statistics (Hons.) from Ramjas College, University of Delhi. I am a passionate data enthusiast with a keen interest in exploring how data can be transformed into meaningful insights.
 
+Let's stay in touch 👇
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vanshika-kumar-9268aa291)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikakr2004@gmail.com)
 
