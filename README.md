@@ -73,9 +73,13 @@ This project is liscenced under the [MIT Liscence](LICENCE). You all are free to
 
 # 👩 **About Me**
 
-Hi there! I'm **Vanshika** ,currently in my 3rd year pursuing B.Sc. Statistics (Hons.) from Ramjas College, University of Delhi. I am a passionate data enthusiast with a keen interest in exploring how data can be transformed into meaningful insights.
+Hi there! I’m Vanshika, a third-year B.Sc. (Hons.) Statistics student at Ramjas College, University of Delhi.
+I’m a passionate data enthusiast with a deep interest in data analysis, visualization, and storytelling through numbers.
+I love uncovering insights from raw data using tools like SQL, Excel, and Power BI, and transforming them into meaningful business solutions.
+I’m constantly exploring real-world projects to strengthen my analytical thinking and problem-solving skills.
 
 Let's stay in touch 👇
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vanshika-kumar-9268aa291)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/yourusername](https://github.com/Vanshika26Ramjas))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikakr2004@gmail.com)
