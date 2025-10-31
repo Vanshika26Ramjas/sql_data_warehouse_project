@@ -5,7 +5,7 @@ This project demonstrates a compressive data warehousing and analystics solution
 
 ...
  # 📺Project Overview
- ### This project Involves:
+  This project Involves:
   1. **Data Architecture**:- Designing a Modern Data Warehouse Using the Medallion Architecture **Bronze** , **Silver** and **Gold** layers.
   2. **ETL Pipelines**:- Extracting, transforming and loading data from the source systems into the warrehouse.
   3. **Data Modeling**:- Developing the fact and dimensions tables optimized for the analytics quereies.
@@ -18,16 +18,16 @@ This project demonstrates a compressive data warehousing and analystics solution
      - ETL Pipeline Developer
      - Data Modelling
      - Data Anlytics
- ...
+ 
  ## 📺 YouTube Video
 [SQL Data Warehouse Portfolio Project]([https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfivtMbKlrff](https://youtu.be/9GVqKuTVANE?si=pD_rHbXUyq663tN4)
 
 ## 🛠️ Tools & Resources
-- [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-- [Git Repository](https://github.com/)
-- [Draw.io](https://app.diagrams.net/)
-- [Notion](https://www.notion.so/)
+- [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) - Lightweight server for hosting your SQL database
+- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) - GUI for managing ,version and collabrate your code.
+- [Git Repository](https://github.com/) - Setup a github account and repository to manage, version and collabrate on your codes.
+- [Draw.io](https://app.diagrams.net/) - Design data architecture , models , flows and diagrams.
+- [Notion](https://www.notion.so/) - All-in-one tool for project management and oragnising all the tasks.
   
 ...
   
@@ -63,9 +63,9 @@ These insights empowers stakeholders with the key business matrics, enabling the
 The Data Architecture for this project follows the Medallion Architecture **Bronze**, **Silver** and **Gold** layer
 ![Architecture model drawio](https://github.com/user-attachments/assets/14d4cae4-188f-4fed-bed7-11ae535283c8)
 
-1.**Bronze Layer**:- It stores the raw data as-is from the system. Data is ingested from the CSV files ito the SQL Server Database.
-2.**Silver Layer**:- This Layer inclued the data cleasing, standardization, and normalization processes to prepare data for analysis.
-3.**Gold Layer**:- House business-ready data modelled into a star schema required for reporting and analysis.
+**Bronze Layer**:- It stores the raw data as-is from the system. Data is ingested from the CSV files ito the SQL Server Database.
+**Silver Layer**:- This Layer inclued the data cleasing, standardization, and normalization processes to prepare data for analysis.
+**Gold Layer**:- House business-ready data modelled into a star schema required for reporting and analysis.
 
 ##🔶 **Liscence**
 
@@ -77,6 +77,6 @@ Hi there! I'm **Vanshika** ,currently in my 3rd year pursuing B.Sc. Statistics (
 
 Let's stay in touch 👇
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vanshika-kumar-9268aa291)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/yourusername](https://github.com/Vanshika26Ramjas))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikakr2004@gmail.com)
 
