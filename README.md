@@ -46,7 +46,7 @@ Develop a modern data warehouse using a SQL Server to consolidate a sales data ,
 - **Documentation**: Provide a clean documents where all the data models details is to be provided to business stakeholder                        and analytics teams
 
 
-  ### 📊BI: Analytics & Reporting (Data Analytics)
+  #  📊BI: Analytics & Reporting (Data Analytics)
 
   ### Objective
   Develop a SQL-based analytics to deliver a detailed insights into the:
@@ -67,11 +67,11 @@ The Data Architecture for this project follows the Medallion Architecture **Bron
  3.  **Gold Layer**:- House business-ready data modelled into a star schema required for reporting and analysis.
 
 
-##🔶 **Liscence**
+# 🔶 **Liscence**
 
 This project is liscenced under the [MIT Liscence](LICENCE). You all are free to use , modify it and share this project with your proper contributions in it.
 
-##👩 **About Me**
+# 👩 **About Me**
 
 Hi there! I'm **Vanshika** ,currently in my 3rd year pursuing B.Sc. Statistics (Hons.) from Ramjas College, University of Delhi. I am a passionate data enthusiast with a keen interest in exploring how data can be transformed into meaningful insights.
 
