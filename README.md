@@ -4,7 +4,32 @@ Welcome to the **Data Warehouse and Analytics Project** repository🚀!!
 This project demonstrates a compressive data warehousing and analystics solution , from building a data warehouse to generate a actionable insights . Designed it as a potfolio project that highlights industry best pratices in data engineering and analytics.
 
 ...
+ # 📺Project Overview
+ ### This project Involves:
+  1. **Data Architecture**:- Designing a Modern Data Warehouse Using the Medallion Architecture **Bronze** , **Silver** and **Gold** layers.
+  2. **ETL Pipelines**:- Extracting, transforming and loading data from the source systems into the warrehouse.
+  3. **Data Modeling**:- Developing the fact and dimensions tables optimized for the analytics quereies.
+  4. **Analytics & Reporting**:- Creating A SQL-based reports and dashboards for the actionable insights.
 
+ # 🎯This repositiory is an excellent resource for professional and sudents looking to showcase your experties into the various fields as:
+     - SQL Development
+     - Data Architect
+     - Data Engineering
+     - ETL Pipeline Developer
+     - Data Modelling
+     - Data Anlytics
+ ...
+ ## 📺 YouTube Video
+[SQL Data Warehouse Portfolio Project]([https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfivtMbKlrff](https://youtu.be/9GVqKuTVANE?si=pD_rHbXUyq663tN4)
+
+## 🛠️ Tools & Resources
+- [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+- [Git Repository](https://github.com/)
+- [Draw.io](https://app.diagrams.net/)
+- [Notion](https://www.notion.so/)
+...
+  
 # 🚀 Project Requirements
 
 ### Building the Data Warehouse(Data Engineering)
@@ -33,6 +58,8 @@ Develop a modern data warehouse using a SQL Server to consolidate a sales data ,
 These insights empowers stakeholders with the key business matrics, enabling the startergic decision-making.
 
 ...
+###🏛️ Data Architecture
+The Data Architecture for this project follows the Medallion Architecture **Bronze**, **Silver** and **Gold** layer
 
 ##🔶 **Liscence**
 
