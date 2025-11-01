@@ -11,7 +11,8 @@ This project demonstrates a compressive data warehousing and analystics solution
   3. **Data Modeling**:- Developing the fact and dimensions tables optimized for the analytics quereies.
   4. **Analytics & Reporting**:- Creating A SQL-based reports and dashboards for the actionable insights.
 
-  🎯**This repositiory is an excellent resource for professional and sudents looking to showcase your experties into the various fields as:**
+ # 🎯**This repositiory is an excellent resource for professional and sudents looking to showcase your experties into the various fields as:**
+    
      - SQL Development
      - Data Architect
      - Data Engineering
