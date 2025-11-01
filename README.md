@@ -3,7 +3,7 @@
 Welcome to the **Data Warehouse and Analytics Project** repository🚀!!
 This project demonstrates a compressive data warehousing and analystics solution , from building a data warehouse to generate a actionable insights . Designed it as a potfolio project that highlights industry best pratices in data engineering and analytics.
 
-...
+  
  # 📺Project Overview
   This project Involves:
   1. **Data Architecture**:- Designing a Modern Data Warehouse Using the Medallion Architecture **Bronze** , **Silver** and **Gold** layers.
@@ -11,7 +11,7 @@ This project demonstrates a compressive data warehousing and analystics solution
   3. **Data Modeling**:- Developing the fact and dimensions tables optimized for the analytics quereies.
   4. **Analytics & Reporting**:- Creating A SQL-based reports and dashboards for the actionable insights.
 
- # 🎯This repositiory is an excellent resource for professional and sudents looking to showcase your experties into the various fields as:
+  🎯**This repositiory is an excellent resource for professional and sudents looking to showcase your experties into the various fields as:**
      - SQL Development
      - Data Architect
      - Data Engineering
@@ -28,8 +28,8 @@ This project demonstrates a compressive data warehousing and analystics solution
 - [Git Repository](https://github.com/) - Setup a github account and repository to manage, version and collabrate on your codes.
 - [Draw.io](https://app.diagrams.net/) - Design data architecture , models , flows and diagrams.
 - [Notion](https://www.notion.so/) - All-in-one tool for project management and oragnising all the tasks.
+
   
-...
   
 # 🚀 Project Requirements
 
